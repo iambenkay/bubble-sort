@@ -1,12 +1,12 @@
 {
   "name": "bubbleSort",
   "version": "1.0.0",
-  "description": "",
+  "description": "implementing bubblesort algorithm in javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "benkay",
   "license": "ISC"
 }
