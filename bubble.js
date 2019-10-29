@@ -14,7 +14,7 @@ var bubble = (data, ascending) => {
     if(ascending){
         return d;
     }
-    return d.reverse()
+    return d.reverse();
 }
 
-module.exports = bubble
+module.exports = bubble ;
